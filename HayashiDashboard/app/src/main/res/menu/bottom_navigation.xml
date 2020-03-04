@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemHome"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/itemFinanças"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="Finanças"/>
+
+    <item
+        android:id="@+id/itemVendas"
+        android:icon="@drawable/ic_grafico_de_linha"
+        android:title="Vendas"/>
+
+    <item
+        android:id="@+id/itemEstoque"
+        android:icon="@drawable/ic_caixa"
+        android:title="Estoque"/>
+
+</menu>
